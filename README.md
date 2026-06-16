@@ -9,21 +9,20 @@ A classic 2D Pac-Man game implemented in Java using **IntelliJ IDEA**. This proj
 Here is a preview of the game in action. You can see the start screen, active gameplay on different maps, and the game status (Scoring, Won, and Game Over).
 
 <p align="center">
-  <img src="عکس صفحه اول.png" width="380" alt="Main Menu" />
-  <img src="عکس شروع بازی.png" width="380" alt="Game Start" />
+  <img src="assets/main_menu.png" width="380" alt="Main Menu" />
+  <img src="assets/game_start.png" width="380" alt="Game Start" />
 </p>
 
 <p align="center">
-  <img src="عکس نقشه1.png" width="380" alt="Map 1" />
-  <img src="عکس نقشه 2.png" width="380" alt="Map 2" />
+  <img src="assets/map_1.png" width="380" alt="Map 1" />
+  <img src="assets/map_2.png" width="380" alt="Map 2" />
 </p>
 
 <p align="center">
-  <img src="scoring.png" width="250" alt="Scoring Screen" />
-  <img src="won.png" width="250" alt="Victory Screen" />
-  <img src="gameover.png" width="250" alt="Game Over Screen" />
+  <img src="assets/scoring.png" width="250" alt="Scoring Screen" />
+  <img src="assets/won.png" width="250" alt="Victory Screen" />
+  <img src="assets/gameover.png" width="250" alt="Game Over Screen" />
 </p>
-
 ---
 
 ## ✨ Features
