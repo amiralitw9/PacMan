@@ -46,3 +46,7 @@ Make sure you have the following installed on your system:
 1. Clone the repository to your local machine:
    ```bash
    git clone [https://github.com/amiralitw9/PacMan.git](https://github.com/amiralitw9/PacMan.git)
+### 📊 Project Languages
+
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiralitw9&repo=PacMan&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+   
